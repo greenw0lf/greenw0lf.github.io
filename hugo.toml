@@ -12,7 +12,7 @@ noClasses = false
 [params]
 author = "Dragoș Alexandru Bălan"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "Dragoș's personal website/portfolio"
 keywords = "blog,developer,personal"
 info = ["Junior Researcher", "University of Twente"]
 avatarURL = "images/avatar.jpg"

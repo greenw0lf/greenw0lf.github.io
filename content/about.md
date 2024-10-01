@@ -2,7 +2,7 @@
 title = "About me"
 +++
 
-- **IPA spelling:** /dragoʃ/
+- **IPA spelling:** /'dragoʃ ale'csandru bә'lan/
 - **Hometown:** Bucharest, RO
 - **Residence:** Naarden, NL
 - **B.Sc.:** Computer Science & Engineering (CSE) @ TU Delft (2019-2022)
@@ -15,6 +15,6 @@ title = "About me"
     - [Paper](https://campus-fryslan.studenttheses.ub.rug.nl/360/) • [Code](https://github.com/greenw0lf/msc-vt-thesis)
 - **Currently:** 
     - Junior Researcher @ University of Twente (Sep 2023-)
-        - working on the PDI-SHH **O**ral **H**istory - **S**tories at the **M**useum around **Art** (**OH-SMArt**) project
+        - working on the PDI-SHH **O**ral **H**istory - **S**tories at the **M**useum around **Art**works (**OH-SMArt**) project
         - in collaboration with the Netherlands Institute for **Sound & Vision** (Nederlands Instituut voor **Beeld & Geluid**)
     - Web Chair - Interspeech 2025 (Jun 2024-)

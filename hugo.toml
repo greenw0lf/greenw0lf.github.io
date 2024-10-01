@@ -138,32 +138,33 @@ weight = 3
 url = "https://orcid.org/0009-0008-8604-814X"
 
 [[params.social]]
+name = "University Page"
+icon = "fas fa-graduation-cap fa-2x"
+weight = 4
+url = "https://people.utwente.nl/d.a.balan"
+
+[[params.social]]
 name = "Twitter"
 icon = "fa-brands fa-x-twitter fa-2x"
-weight = 4
+weight = 5
 url = "https://twitter.com/da_balan/"
 
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About me"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Research"
-weight = 2
-url = "research/"
-
-[[languages.en.menu.main]]
 name = "Projects"
-weight = 3
+weight = 2
 url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact"
-weight = 4
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Research"
+# weight = 3
+# url = "research/"

@@ -164,7 +164,12 @@ name = "Projects"
 weight = 2
 url = "projects/"
 
-# [[languages.en.menu.main]]
-# name = "Research"
-# weight = 3
-# url = "research/"
+[[languages.en.menu.main]]
+name = "Research"
+weight = 3
+url = "research/"
+
+[[languages.en.menu.main]]
+name = "Teaching"
+weight = 4
+url = "teaching/"

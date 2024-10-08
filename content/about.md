@@ -17,5 +17,6 @@ title = "About me"
     - Junior Researcher @ University of Twente (Sep 2023-)
         - working on the PDI-SHH **O**ral **H**istory - **S**tories at the **M**useum around **Art**works (**OH-SMArt**) project
         - in collaboration with the Netherlands Institute for **Sound & Vision** (Nederlands Instituut voor **Beeld & Geluid**)
+        - more info: under **Projects** tab
     - Web Chair - Interspeech 2025 (Jun 2024-)
         - responsible with adding and organizing content on the [website of Interspeech 2025](https://interspeech2025.org)

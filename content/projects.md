@@ -10,6 +10,10 @@ title = "Projects"
 
 The model which performed the best in the benchmarks is Whisper large-v2 with Voice Activity Detection (VAD). Additionally, the implementation of Whisper used for the tool is [faster-whisper](https://github.com/SYSTRAN/faster-whisper). **The benchmark results** can be found in the **project below**.
 
+All the scripts and files used during benchmarking can be found in 2 repositories:
+- Code related to benchmarking various state-of-the-art ASR models: https://github.com/greenw0lf/OH-SMArt/
+- Code related to benchmarking various Whisper implementations: https://github.com/greenw0lf/whisper-benchmark
+
 The resulting tool can be found here: https://github.com/beeldengeluid/whisper-asr-worker.
 
 ### Dutch Open Speech Recognition Benchmark (DOSRB)

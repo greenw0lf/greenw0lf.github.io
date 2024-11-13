@@ -2,7 +2,7 @@
 title = "About me"
 +++
 
-- **IPA spelling:** /'dragoʃ ale'csandru bә'lan/
+- **IPA spelling:** /'dragoʃ ale'ksandru bә'lan/
 - **Hometown:** Bucharest, RO
 - **Residence:** Naarden, NL
 - **B.Sc.:** Computer Science & Engineering (CSE) @ TU Delft (2019-2022)

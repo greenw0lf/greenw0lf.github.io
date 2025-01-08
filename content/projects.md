@@ -6,7 +6,7 @@ title = "Projects"
 
 ### OH-SMArt
 
-**O**ral **H**istory - **S**tories at the **M**useum around **Art**works (**OH-SMArt**) is a long term initiative to significantly improve the digital research chain around using Oral History and spoken narratives, with research into artworks and museums as a use case. My role within this project is to evaluate state-of-the-art speech recognition models such as Whisper and XLS-R by creating benchmarks with various metrics such as Word Error Rate (WER), time it takes to evaluate a subset, and memory usage. Based on the benchmark results, I then propose and implement one of the models as an automatic transcriber within the infrastructure of the Sound & Vision Institute which can be used as a tool by researchers working with digital media archives to automatically transcribe Oral History interviews or other audiovisual content present in the Institute's digital archive.
+**O**ral **H**istory - **S**tories at the **M**useum around **Art**works (**OH-SMArt**) is a long term initiative to significantly improve the digital research chain around using Oral History and spoken narratives, with research into artworks and museums as a use case. My role within this project is to evaluate state-of-the-art speech recognition models such as Whisper and XLS-R by creating benchmarks with various metrics such as Word Error Rate (WER), time it takes to evaluate a subset, and memory usage. Based on the benchmark results, I then propose and implement one of the models as an automatic transcriber within the infrastructure of the Netherlands Institute for Sound & Vision which can be used as a tool by researchers working with digital media archives to automatically transcribe Oral History interviews or other audiovisual content present in the Institute's digital archive.
 
 The model which performed the best in the benchmarks is Whisper large-v2 with Voice Activity Detection (VAD). Additionally, the implementation of Whisper used for the tool is [faster-whisper](https://github.com/SYSTRAN/faster-whisper). **The benchmark results** can be found in the **project below**.
 
@@ -36,6 +36,11 @@ My main contributions to this tool include:
 - adding back punctuation that was removed before (' and -)
 - option to output a more detailed breakdown of the alignment of the reference-hypothesis files
 - overall increasing the readability of the README
+
+### Contribution: faster-whisper
+I have done a small contribution to the [official faster-whisper repository](https://github.com/SYSTRAN/faster-whisper) that is highly relevant for the [Whisper worker](https://github.com/beeldengeluid/whisper-asr-worker) I developed for the Netherlands Institute for Sound & Vision. To summarize the contribution, I added logging of the duration of the audio segment to be processed, as well as information about how much audio does the voice activity detection (VAD) component remove, for the batched version of faster-whisper (represented by the class `BatchedInferencePipeline` in the codebase).
+
+Link to the PR that added these changes: https://github.com/SYSTRAN/faster-whisper/pull/1186
 
 ## Personal project
 

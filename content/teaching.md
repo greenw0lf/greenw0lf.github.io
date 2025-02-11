@@ -15,7 +15,7 @@ title = "Teaching"
 
 ### During my work as a Junior Researcher @ UTwente
 
-1. **"Speech Processing" (2023-2024; 2024-2025)**
+1. **"Speech Processing" (2023-2025)**
     - part of M.Sc. "Interaction Technology"
     - Prepared a lecture on State-of-the-Art in Speech Recognition
     - Prepared a lab on Speech Recognition Evaluation

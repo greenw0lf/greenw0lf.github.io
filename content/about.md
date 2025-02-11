@@ -13,10 +13,14 @@ title = "About me"
     - **Grade**: 9.5/10, **Cum Laude + Valedictorian**
     - **Title:** Improving the State-of-the-Art Frisian ASR by fine-tuning Large-Scale Cross-Lingual Pre-Trained Models
     - [Paper](https://campus-fryslan.studenttheses.ub.rug.nl/360/) • [Code](https://github.com/greenw0lf/msc-vt-thesis)
-- **Currently:** 
-    - Junior Researcher @ University of Twente (Sep 2023-)
+- **Junior Researcher** @ University of Twente (Sep 2023-Jan 2025)
         - working on the PDI-SHH **O**ral **H**istory - **S**tories at the **M**useum around **Art**works (**OH-SMArt**) project
         - in collaboration with the Netherlands Institute for **Sound & Vision** (Nederlands Instituut voor **Beeld & Geluid**)
         - more info: under **Projects** tab
+- **Currently:**
+    - 2nd year **Ph.D. Researcher** @ University of Twente (Feb 2025-)
+        - I will be working as part of 2 projects:
+            - **HOSAN** (**HO**ogwaardige **S**praakherkenning voor **A**l het **N**ederlands): A project with the end goal of creating a Dutch Speech Foundational Model.
+            - **Medispeech**: A project where the platform of communication between medical providers and patients is facilitated through the use of AI such as speech recognition and LLMs.
     - Web Chair - Interspeech 2025 (Jun 2024-)
         - responsible with adding and organizing content on the [website of Interspeech 2025](https://interspeech2025.org)
